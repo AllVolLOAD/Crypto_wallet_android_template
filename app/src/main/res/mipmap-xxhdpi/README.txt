@@ -1,0 +1,1 @@
+См. инструкцию в mipmap-mdpi/README.txt
